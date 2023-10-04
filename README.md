@@ -1,7 +1,4 @@
 <h2 align="left">Hi 👋, I'm AATHIL DUCKY<br><br>A passionate Offensive Cyber Security Researcher from Sri Lanka</h2>
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aathilducky&label=Profile%20views&color=0e75b6&style=flat" alt="aathilducky" /> </p>
 <br>
 
 ###
@@ -105,3 +102,7 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aathilducky&label=Profile%20views&color=0e75b6&style=flat" alt="aathilducky" /> </p>
+<br>
