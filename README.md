@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm AATHIL DUCKY<br><br>A passionate Offensive Cyber Security Researcher from Sri Lanka</h2>
+<h2 align="left">Hi 👋, I'm AATHIL DUCKY<br><br>Passionate about all things Python 🚀</h2>
 <br>
 
 ###
