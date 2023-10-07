@@ -1,19 +1,20 @@
 <h2 align="left">Hi 👋, I'm AATHIL DUCKY<br><br>Passionate about all things Python 🚀</h2>
 <br>
 
-###
+# 📊 GitHub Stats:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AATHILDUCKY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
+
+![](https://github-readme-stats.vercel.app/api?username=AATHILDUCKY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AATHILDUCKY&theme=dark&hide_border=false)<br/>
 <br>
 
 ###
 
 <img align="right" height="150" src="https://33.media.tumblr.com/9cebcec899889b81f2adea7b5486fdbb/tumblr_ne8fbcYjVR1ru5h8co1_500.gif"  />
-
-
 
 <div align="left">
   <a href="https://www.youtube.com/@aathilducky" target="_blank">
