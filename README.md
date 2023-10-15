@@ -20,14 +20,11 @@
 
 ### Get in Touch
 
-📫 Connect with me on [LinkedIn](your-linkedin-profile-url)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aathil-ducky-95b12a218)
 
 🌐 Explore my projects here on GitHub.
 
-📧 Reach me via email at [your-email@email.com]
-
 Let's collaborate, innovate, and make an impact together! 💪
-
 
 ###
 
