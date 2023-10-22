@@ -2,19 +2,19 @@
 
 ## 🎓 About Me
 - 🎓 Computer Science Student
-- 🕵️ Offensive Cyber Security Researcher (Red Team)
+- 🕵️ Data analysis
 - 💻 Python Programmer
 - 🔭 Always on a mission to solve real-world problems
 
 ## 📚 My Background
-I'm a passionate computer science student with a keen interest in offensive cyber security. I'm currently exploring the fascinating world of red teaming, where I get to put my skills to the test in real-world scenarios.
+I'm a passionate computer science student with a keen interest in Data analysis. I'm currently Exploring the world of data analysis, where I get to put my skills to the test in real-world scenarios.
 
 ## 🌟 My Goals
-My primary goal is to leverage my knowledge and skills to solve real-world problems through the power of technology. I believe that technology has the potential to make the world a better and safer place, and I'm committed to contributing to this vision.
+As a Python programmer and data analyst, my primary objective is to harness my expertise to tackle real-world challenges through the prism of data. I'm dedicated to leveraging technology for a better
 
 ## 🚀 What You'll Find Here
 - 💡 Insights into my journey as a computer science student
-- 📝 Research findings and experiments in offensive cyber security
+- 📝 Research findings and experiments in Data analysis
 - 🐍 Python programming projects and code snippets
 - 💬 Engaging discussions and insights on real-world problem-solving
 
