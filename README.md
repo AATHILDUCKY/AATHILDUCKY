@@ -1,6 +1,3 @@
-<h2 align="left">Hi 👋, I'm AATHIL DUCKY<br><br>🛡️ Passionate Cybersecurity Researcher 🔍 | 🐍 Python Programmer 💻 | Always Learning, Always Securing! 🔐</h2>
-<br>
-
 # Hi there! 👋
 
 I'm Aathil Ducky, a Computer Science student at Trincomalee Campus, Eastern University of Sri Lanka.
