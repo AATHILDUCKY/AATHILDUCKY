@@ -1,52 +1,27 @@
-# Hi there! 👋
+# Welcome to Aathil Ducky's GitHub Profile! 👋
 
-I'm Aathil Ducky, a Computer Science student at Trincomalee Campus, Eastern University of Sri Lanka.
+## About Me
+Hey there! I'm Aathil Ducky, a passionate cyber security researcher and computer science student at Trincomalee Campus, Eastern University of Sri Lanka (TCEUSL). My focus is on offensive security research, and I love diving into the world of ethical hacking to find solutions for real-world problems.
 
-<br>
+## What I Do
+- 💻 Computer Science Student at TCEUSL
+- 🛠️ Python Programmer
+- 🕵️‍♂️ Cyber Security Researcher (Offensive Security)
+- 🐧 Proficient in Kali Linux
+- 🌐 Basic Web Development Skills
+- 🔍 SEO Enthusiast
 
-# 📊 GitHub Stats:
+## My Mission
+I'm on a mission to tackle real-world challenges through innovative solutions. Whether it's delving into cybersecurity, coding in Python, or optimizing websites for search engines, I'm always eager to learn and grow in the tech world.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AATHILDUCKY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<br>
+## Connect With Me
+Feel free to reach out! Let's connect and collaborate on exciting projects. 🚀
 
-![](https://github-readme-stats.vercel.app/api?username=AATHILDUCKY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AATHILDUCKY&theme=dark&hide_border=false)<br/>
-<br>
+- [LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
+- [Twitter](YOUR_TWITTER_PROFILE_URL)
+- [Personal Website/Blog](YOUR_WEBSITE_URL)
 
-###
+## Let's Code Together!
+If you're interested in collaborating or have any questions, don't hesitate to drop me a message. I'm always up for a coding challenge or a stimulating discussion. Let's make a difference in the tech community together! 🤝
 
-<img align="right" height="150" src="https://33.media.tumblr.com/9cebcec899889b81f2adea7b5486fdbb/tumblr_ne8fbcYjVR1ru5h8co1_500.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@aathilducky" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/aathilducky" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aathil-ducky-95b12a218" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/AathilDucky" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.buymeacoffee.com/duckydatasf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Donate&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aathilducky&label=Profile%20views&color=0e75b6&style=flat" alt="aathilducky" /> </p>
-<br>
+Happy coding! 💻✨
