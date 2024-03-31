@@ -11,7 +11,7 @@ Hey there! 👋 I'm Aathil Ducky, a computer science student at Trincomalee Camp
 
 ### 🌟 My Goals:
 
-I strive to leverage my skills in Python programming, data science, and SEO to develop cutting-edge solutions that make a difference. 💡 Whether it's creating insightful data visualizations, building predictive models, or optimizing websites for search engines, I'm always up for a challenge!
+I strive to leverage my skills in Python programming, data science, and SEO to develop cutting-edge solutions that make a difference. 💡 Whether it's creating insightful data visualizations, building predictive models, and optimizing websites for search engines, I'm always up for a challenge!
 
 ### 📚 What You'll Find Here:
 
