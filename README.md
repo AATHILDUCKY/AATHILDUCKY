@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm Aathil Ducky, a passionate full-stack web deve
 My mission is to leverage my skills and knowledge to provide effective solutions for real-world challenges, making a positive impact on society.
 
 ## Let's Connect! 🌐
-- [YouTube](#) 📺
-- [LinkedIn](#) 👔
-- [Twitter](#) 🐦
+- [YouTube](https://www.youtube.com/@aathilducky) 📺
+- [LinkedIn](https://www.linkedin.com/in/aathil-ducky-95b12a218) 👔
+- [Twitter](https://twitter.com/AathilDucky) 🐦
 - [Medium](#) 📝
 - [Instagram](#) 📷
 
