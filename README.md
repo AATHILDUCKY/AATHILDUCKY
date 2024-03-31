@@ -1,31 +1,20 @@
-🚀 Welcome to Aathil Ducky's GitHub! 🌟
+Hi there! 👋
+Welcome to my GitHub profile! I'm Aathil Ducky, a passionate full-stack web developer and Python programmer with a focus on backend development. Currently pursuing my computer science degree at Trincomalee Campus, Eastern University of Sri Lanka (TCEUSL), I'm dedicated to finding innovative solutions to real-world problems.
 
-Hey there! 👋 I'm Aathil Ducky, a computer science student at Trincomalee Campus Eastern University of Sri Lanka (TCEUSL), passionate about technology, data science, and machine learning. 🤖💻 I'm on a mission to solve real-world problems through innovative solutions and share my knowledge with the world. 🌍
+Skills 🚀
+Fullstack web development
+Python programming
+Backend development with Django
+Frontend development
+WordPress development
+Search Engine Optimization (SEO)
+Mission 🌟
+My mission is to leverage my skills and knowledge to provide effective solutions for real-world challenges, making a positive impact on society.
 
-### 💡 What I Do:
-
-- 💻 Python Programmer
-- 📊 Data Science & Machine Learning Enthusiast
-- 🔍 SEO Specialist
-- 🚀 Tech Enthusiast
-
-### 🌟 My Goals:
-
-I strive to leverage my skills in Python programming, data science, and SEO to develop cutting-edge solutions that make a difference. 💡 Whether it's creating insightful data visualizations, building predictive models, and optimizing websites for search engines, I'm always up for a challenge!
-
-### 📚 What You'll Find Here:
-
-- 🧠 Data Science & Machine Learning Projects
-- 🐍 Python Code Snippets & Projects
-- 🔍 SEO Tips & Tricks
-- 🚀 Tech Tutorials & Resources
-
-### 🚀 Let's Connect:
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions, collaboration ideas, or just want to chat about all things tech! 
-
-🌟 You can connect with me on 
-
-- [LinkedIn](https://www.linkedin.com/in/aathil-ducky-95b12a218)
-- [Twitter](https://twitter.com/AathilDucky).
-- [Youtube](https://www.youtube.com/@aathilducky)
+Let's Connect! 🌐
+YouTube 📺
+LinkedIn 👔
+Twitter 🐦
+Medium 📝
+Instagram 📷
+Feel free to reach out and connect with me on any of these platforms. Let's collaborate and create something amazing together! 😊
