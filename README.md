@@ -22,4 +22,4 @@ I strive to leverage my skills in Python programming, data science, and SEO to d
 
 ### 🚀 Let's Connect:
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions, collaboration ideas, or just want to chat about all things tech! 🌟 You can connect with me on [LinkedIn](https://www.linkedin.com/in/aathilducky/) or [Twitter](https://twitter.com/AathilDucky).
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions, collaboration ideas, or just want to chat about all things tech! 🌟 You can connect with me on [LinkedIn](https://www.linkedin.com/in/aathil-ducky-95b12a218) or [Twitter](https://twitter.com/AathilDucky).
