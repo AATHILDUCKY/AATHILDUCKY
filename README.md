@@ -10,6 +10,7 @@ Hey there! I'm Aathil Ducky, a passionate cyber security researcher and computer
 - 🐧 Proficient in Kali Linux
 - 🌐 Basic Web Development Skills
 - 🔍 SEO Enthusiast
+- WordPress & Woo Commerce
 
 ## My Mission
 I'm on a mission to tackle real-world challenges through innovative solutions. Whether it's delving into cybersecurity, coding in Python, or optimizing websites for search engines, I'm always eager to learn and grow in the tech world.
