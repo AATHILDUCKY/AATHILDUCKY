@@ -1,21 +1,28 @@
-# Hi there! 👋
-
-I'm Aathil Ducky, a computer science student at Trincomalee Campus, Eastern University of Sri Lanka. 🎓
+# Welcome to Aathil Ducky's GitHub Profile! 👋
 
 ## About Me
-
-I've always been passionate about learning new things, especially in the realm of technology. Throughout my journey, I've dabbled in various areas but found my calling in web development. After exploring different technologies, I've honed my skills in JavaScript and its related technologies.
+Hey there! I'm Aathil Ducky, a passionate cyber security researcher and computer science student at Trincomalee Campus, Eastern University of Sri Lanka (TCEUSL). My focus is on offensive security research, and I love diving into the world of ethical hacking to find solutions for real-world problems.
 
 ## What I Do
+- 💻 Computer Science Student at TCEUSL
+- 🛠️ Python Programmer
+- 🕵️‍♂️ Cyber Security Researcher (Offensive Security)
+- 🐧 Proficient in Kali Linux
+- 🌐 Basic Web Development Skills
+- 🔍 SEO Enthusiast
+- WordPress & Woo Commerce
 
-Currently, I'm diving into the world of freelancing, specializing in WordPress website development, React, and offering SEO services. I believe in the power of creating engaging and functional websites that leave a lasting impression.
+## My Mission
+I'm on a mission to tackle real-world challenges through innovative solutions. Whether it's delving into cybersecurity, coding in Python, or optimizing websites for search engines, I'm always eager to learn and grow in the tech world.
 
-## My YouTube Channel
+## Connect With Me
+Feel free to reach out! Let's connect and collaborate on exciting projects. 🚀
 
-You can find me on YouTube under the username **aathilducky**. I've started creating content to share my knowledge, experiences, and projects. Feel free to check out my channel and subscribe to stay updated with my latest videos!
+- [LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
+- [Twitter](YOUR_TWITTER_PROFILE_URL)
+- [Personal Website/Blog](YOUR_WEBSITE_URL)
 
-## Get in Touch
+## Let's Code Together!
+If you're interested in collaborating or have any questions, don't hesitate to drop me a message. I'm always up for a coding challenge or a stimulating discussion. Let's make a difference in the tech community together! 🤝
 
-I'm always open to collaboration opportunities, projects, or just a friendly chat. You can reach out to me via email at [your@email.com](mailto:aathilducky@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aathil-ducky-95b12a218).
-
-Let's build something awesome together! 🚀
+Happy coding! 💻✨
